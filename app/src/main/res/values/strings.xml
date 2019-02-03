@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="loading">Loading</string>
+    <string name="sample">Sample</string>
+</resources>
